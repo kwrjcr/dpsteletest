@@ -1,6 +1,6 @@
 <div class="menu-container">
     <ul class="menu">
-        <li>
+        <li class="active">
             <a href="index.php">Home</a>
         </li>
         <li>
