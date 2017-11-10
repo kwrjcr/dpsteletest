@@ -209,3 +209,10 @@ span.underline {
     margin-right: auto;
     width: 150px;
 }
+
+.form-demo {
+    width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+}

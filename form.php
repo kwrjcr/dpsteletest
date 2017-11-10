@@ -15,6 +15,29 @@
         <input id="qualification" type="text" name="qualification">
         <input type="submit" value="Check Qualification" name="check_qualification">
 
+        <table class="form-demo">
+            <tr>
+                <td>
+                    Text Box:
+                </td>
+                <td>
+                    <input type="text" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Radio Buttons:
+                </td>
+                <td>
+                    <input name="dps-radio" type="radio" />
+                    <input name="dps-radio" type="radio" />
+                    <input name="dps-radio" type="radio" />
+                    <input name="dps-radio" type="radio" />
+                    <input name="dps-radio" type="radio" />
+                </td>
+            </tr>
+        </table>
+
     </form>
         <?php
             $full = '';

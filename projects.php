@@ -72,26 +72,6 @@
                             <img class="image customer" src="images/customer_segments.jpeg" />
                         </td>
                     </tr>
-                    <tr>
-                        <td>
-                            Text Box:
-                        </td>
-                        <td>
-                            <input type="text" />
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Radio Buttons:
-                        </td>
-                        <td>
-                            <input name="dps-radio" type="radio" />
-                            <input name="dps-radio" type="radio" />
-                            <input name="dps-radio" type="radio" />
-                            <input name="dps-radio" type="radio" />
-                            <input name="dps-radio" type="radio" />
-                        </td>
-                    </tr>
                 </table>
             </div>
         </div>
