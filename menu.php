@@ -21,5 +21,8 @@
         <li>
             <a href="favorite_sites.php">Favorite Sites</a>
         </li>
+        <li>
+            <a href="form.php">Form</a>
+        </li>
     </ul>
 </div>
