@@ -25,7 +25,7 @@
             <a href="form.php">Form</a>
         </li>
         <li>
-            <a href="form.php">Form</a>
+            <a href="sql_challenge.php">SQL Challenge</a>
         </li>
     </ul>
 </div>

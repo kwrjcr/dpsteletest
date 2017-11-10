@@ -152,7 +152,7 @@ table.projects-list, td {
 
 .menu li{
     display: inline-block;
-    padding-left: 31px;
+    padding-left: 16px;
     padding-top: 14px;
 }
 
@@ -211,4 +211,11 @@ span.underline {
     padding: 5px;
     width: 350px;
     text-align: center;
+}
+
+.result {
+    margin-left: auto;
+    margin-top: 30px;
+    margin-right: auto;
+    width: 150px;
 }

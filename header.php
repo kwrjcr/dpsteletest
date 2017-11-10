@@ -14,8 +14,7 @@ $GLOBALS['nightTimeCutoff'] = $nightTimeCutoff;
 <html>
 <head>
 
-    <?php //<link rel="stylesheet" type="text/css" href="static/css/app<?= $GLOBALS['timeOfDay'] > $GLOBALS['dayTimeCutoff'] && $GLOBALS['timeOfDay'] < $GLOBALS['nightTimeCutoff'] ? '_day' : '_night'.css">?>
-    <link rel="stylesheet" type="text/css" href="static/css/app_night.css">
+    <link rel="stylesheet" type="text/css" href="static/css/app<?= $GLOBALS['timeOfDay'] > $GLOBALS['dayTimeCutoff'] && $GLOBALS['timeOfDay'] < $GLOBALS['nightTimeCutoff'] ? '_day' : '_night'?>.css">
     <script src="static/js/app.js"></script>
     <title>Kevin Robertson Resume</title>
 
