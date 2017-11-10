@@ -24,5 +24,8 @@
         <li>
             <a href="form.php">Form</a>
         </li>
+        <li>
+            <a href="form.php">Form</a>
+        </li>
     </ul>
 </div>
